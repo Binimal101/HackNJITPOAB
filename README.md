@@ -1,4 +1,8 @@
 # HackNJITPOAB
+
+Team Name: POAB
+(Pirates on a Boat)
+
 Built by:
 - Matthew Tujague (NJIT CS)
 - Jon Koslik (NJIT CS)
@@ -10,4 +14,3 @@ waves will try to knock the player out and sink the ship, how long can you survi
 
 Uses:
 - Pygame
-
